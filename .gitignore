@@ -2,3 +2,4 @@ config.js
 Konfi.js
 *.png
 node_modules
+.idea
